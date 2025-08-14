@@ -1,0 +1,3 @@
+pub def say_hello() -> void {
+    println("Hello World");
+}
