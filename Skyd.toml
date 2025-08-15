@@ -2,4 +2,3 @@
 name = "say"
 version = "0.1.0"
 description = "A example project writen is Skyl"
-entry = "mod.gpp"
